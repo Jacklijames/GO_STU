@@ -13,6 +13,6 @@ func main() {
 	}
 }
 
-var Usage = func ()  {
+var Usage = func() {
 	fmt.Println("USAGE: calc command [arguments] ...")
 }

@@ -1,9 +1,10 @@
 package main
 
 import "fmt"
+
 /**
-	闭包   匿名函数的使用
- */
+闭包   匿名函数的使用
+*/
 func main() {
 	j := 5
 	a := func() func() {
